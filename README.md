@@ -48,13 +48,6 @@ Before getting started, make sure you have the following installed on your syste
      MONGODB_URI=your_mongodb_uri
      ```
 
-5. **Seed the Database:**
-
-   ```bash
-   # In the backend directory
-   npm run seed
-   ```
-
 6. **Start the Backend Server:**
 
    ```bash
@@ -72,8 +65,6 @@ Before getting started, make sure you have the following installed on your syste
 8. **Access the Application:**
 
    Open your web browser and navigate to `http://localhost:3000` to access Grocery Go.
-
-## Additional Notes
 
 - The default port for the backend server is 3000. Make sure this port is available and not used by any other application.
 - Replace `your_mongodb_uri` in the `.env` file with your MongoDB connection URI.
