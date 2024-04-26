@@ -17,13 +17,13 @@ Before getting started, make sure you have the following installed on your syste
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your_username/grocery-go.git
+   git clone https://github.com/sebin12thomas/GroceryGo.git
    ```
 
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd grocery-go
+   cd GroceryGo
    ```
 
 3. **Install Dependencies:**
