@@ -15,6 +15,7 @@ Before getting started, make sure you have the following installed on your syste
 ## Getting Started
 
 1. **Clone the Repository:**
+```
 
    ```bash
    git clone https://github.com/sebin12thomas/GroceryGo.git
